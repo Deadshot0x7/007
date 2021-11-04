@@ -3,9 +3,9 @@
 
 # ChangeLog
  . Version 1 :
-            - Instgram osnit 
-            - PhoneLookup
-            - IpLookup
+             1.Instgram osnit 
+             2.PhoneLookup
+             3.IpLookup
 
 # Like and Follow 
 Like the Magsik Module and follow me :)
