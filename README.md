@@ -8,7 +8,6 @@ Version 1
 3.IpLookup
 
 # Issue 
-Got an Issue ? submit the issue on https://github.com/Deadshot0x7/007/issues
-
+Got an Issue ?  Post in Disscussion , In the Issue Section 
 # Like and Follow 
 Like the Magsik Module and follow me on github :)
