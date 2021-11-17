@@ -12,4 +12,11 @@ Version 1
 # Issue 
 Got an Issue ?  Post in Disscussion , In the Issue Section 
 # Like and Follow 
-Like the Magsik Module and follow me on github :)
+Like the Magsik Module and Xopsed Module
+follow me on 
+
+-[Github](https://github.com/deadshot0x7) 
+
+-[ Twitter]( https://twitter.com/Deadshot0x7xda)
+
+-[Xda](https://forum.xda-developers.com/m/deadshot0x7.9654529/)
