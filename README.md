@@ -8,7 +8,7 @@ Version 1
 2.PhoneLookup
 3.IpLookup
 # Dsicord Community 
-Join the Discord community for accoumnet regarding the application  [Discord][https://discord.gg/WAhQ8EcV4C] 😊
+Join the Discord community for accoumnet regarding the application  [Discord](https://discord.gg/WAhQ8EcV4C)😊
 # Issue 
 Got an Issue ?  Post in Disscussion , In the Issue Section 
 # Like and Follow 
