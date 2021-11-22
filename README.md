@@ -3,12 +3,15 @@
 # Screenshot
 ![Screenshot](Untitled.jpg)
 # ChangeLog
-Version 1 
+Version 1 :
+
 1.Instgram osnit 
+
 2.PhoneLookup
+
 3.IpLookup
 # Dsicord Community 
-Join the Discord community for accoumnet regarding the application  [Discord][https://discord.gg/WAhQ8EcV4C] 😊
+Join the Discord [community](https://discord.gg/WAhQ8EcV4C) for Accoument   regarding the update of the application  😊
 # Issue 
 Got an Issue ?  Post in Disscussion , In the Issue Section 
 # Like and Follow 
